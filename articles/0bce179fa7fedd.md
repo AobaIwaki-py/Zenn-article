@@ -15,7 +15,7 @@ published: true
 ## 2. 新規マークダウンファイルを瞬時に作成する方法
 その後、VSCodeを起動します。この時、開くフォルダは上で指定したものでなくてもあまり問題ありません。`Command+Shift+P`と打ち、`VSNotes:Create a New Note`と入力すると、ファイル名を入力するフォームが現れます。この時、名前を選択しないとその時の日付と時刻が自動で入力されるので、面倒な場合は入力不要です。自分はほとんど入力していません。
 
-## 3. 勉強内容を記事にまとめる時に必須の拡張機能
+## 3. 勉強内容を記事にまとめる時に便利な拡張機能
 あとは、マークダウン形式でメモをとるだけです。この時におすすめのGoogle Chromeの拡張機能は、[Copy as Markdown - Chrome Web Store](https://chrome.google.com/webstore/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn)です。この拡張機能を使うと、開いているページのタイトルをマークダウン形式のリンクで取得できるので、参考記事としてそのまま貼り付けることができます。
 
 # 書いた記事をVSCodeからZennへアップロードする方法
